@@ -1,0 +1,19 @@
+{
+  "name": "worldwiki",
+  "version": "0.0.1",
+  "description": "A random generator for RPG setting wiki pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epswartz/worldwiki.git"
+  },
+  "author": "Ethan Swartzentruber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epswartz/worldwiki/issues"
+  },
+  "homepage": "https://github.com/epswartz/worldwiki#readme"
+}
