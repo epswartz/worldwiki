@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/epswartz/worldwiki/issues"
   },
-  "homepage": "https://github.com/epswartz/worldwiki#readme"
+  "homepage": "https://github.com/epswartz/worldwiki#readme",
+  "dependencies": {
+    "async": "^2.3.0"
+  }
 }

@@ -2,3 +2,7 @@
 
 var tables = require('./tables');
 
+function rollTable(){
+	// TODO
+}
+
